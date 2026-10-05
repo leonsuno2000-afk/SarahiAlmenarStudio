@@ -1,0 +1,31 @@
+{
+  "name": "Sarahi Almenar Nails Studio",
+  "short_name": "Sarahi Nails",
+  "description": "Gestión de reservas, clientas, servicios y caja para Sarahi Almenar Nails Studio.",
+  "lang": "es-PE",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#F6EEE9",
+  "theme_color": "#F6EEE9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
